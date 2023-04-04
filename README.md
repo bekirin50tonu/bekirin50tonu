@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/benbekirgormez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benbekirgormez" height="30" width="40" /></a>
 <a href="https://instagram.com/benbekirgormez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benbekirgormez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc2_nzvi4ft5jfatoobtfgjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2_nzvi4ft5jfatoobtfgjw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2_NzVi4Ft5JFatOOBtfGJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2_nzvi4ft5jfatoobtfgjw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
