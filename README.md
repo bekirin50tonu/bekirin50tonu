@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bekir aka bekirin50tonu (fiftyshadesofbekir in eng).</h1>
+<h1 align="center">Hi 👋, I'm Bekir a.k.a bekirin50tonu (fiftyshadesofbekir in eng).</h1>
 <h3 align="center">a man who is a backend developer and try to learn deep learning in free times. Otherwise in my free times watch movies and tv series.</h3>
 
 <h3 align="left">Connect with me:</h3>
